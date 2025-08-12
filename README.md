@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ThakurSaiPrakash12/ThakurSaiPrakash12/main/A_digital_illustration_banner_showcases_Thakur_Sai.png" alt="Thakur Sai Prakash Singh Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/ThakurSaiPrakash12/ThakurSaiPrakash12/main/me.png" alt="Thakur Sai Prakash Singh Banner" width="100%">
 </p>
 
 # 👋 Hi, I'm Thakur Sai Prakash Singh
