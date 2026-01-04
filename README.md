@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ThakurSaiPrakash12/ThakurSaiPrakash12/main/me.png" alt="Thakur Sai Prakash Singh Banner" width="100%">
-</p>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=👋+Hey%2C+I'm+Thakur+Sai+Prakash+Singh;ProblemSolver;AI+%26+ML+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
