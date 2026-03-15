@@ -5,7 +5,7 @@
 
 
 🎓 **B.Tech 3rd Year** | Computer Science & Information Technology  
-📍 MLR Institute of Technology | CGPA: 9.14  
+📍 MLR Institute of Technology | CGPA: 8.97 
 
 💡 Passionate about building **scalable web applications**, **AI/ML projects**, and solving real-world problems through code.  
 🏆 **First Prize Winner** at *Zignasa 2024* for my **Deepfake Detection Project**.  
